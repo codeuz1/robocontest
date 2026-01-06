@@ -1,0 +1,3 @@
+a=input()
+print("PIIMA olimpiadasiga xush kelibsiz,",a.capitalize(), end="")
+print("!")
