@@ -1,0 +1,7 @@
+a=int(input())
+if a%10==a//10:
+  print("NO")
+elif a<10:
+  print("NO")
+else:
+  print("YES")
